@@ -23,4 +23,8 @@ function nestedTarget(){
   
   //Define a function deepestChild() that pulls out the most deeply nested child element from div#grand-node
   
-  
+  function deepestChild(){
+   var deep = document.getElementById('grand-node').querySelectorAll('div')
+   return deep[deep.length-1]
+
+  }
