@@ -21,4 +21,6 @@ function nestedTarget(){
      }
   }
   
-  //
+  //Define a function deepestChild() that pulls out the most deeply nested child element from div#grand-node
+  
+  
