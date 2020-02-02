@@ -11,4 +11,4 @@ function nestedTarget(){
    return document.getElementById('nested').querySelector('div.target')
   }
   
-  //
+  //Define a function increaseRankBy(n) that increases the ranks in all of the .ranked-lists by n
