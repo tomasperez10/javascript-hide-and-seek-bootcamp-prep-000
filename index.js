@@ -1,4 +1,4 @@
-//Accepts a selector and returns the first element that matches
+//Define a function getFirstSelector(selector) that accepts a selector and returns the first element that matches
 
 function getFirstSelector(selector){
    return document.querySelector(selector)
@@ -10,3 +10,5 @@ function getFirstSelector(selector){
 function nestedTarget(){
    return document.getElementById('nested').querySelector('div.target')
   }
+  
+  //
