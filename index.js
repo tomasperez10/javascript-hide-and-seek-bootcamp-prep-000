@@ -20,3 +20,5 @@ function nestedTarget(){
      upRank[i].innerHTML = ((parseInt(upRank[i].innerHTML)) + n)
      }
   }
+  
+  //
